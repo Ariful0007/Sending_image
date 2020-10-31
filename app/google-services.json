@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864493599253",
+    "firebase_url": "https://sending-image-acec6.firebaseio.com",
+    "project_id": "sending-image-acec6",
+    "storage_bucket": "sending-image-acec6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864493599253:android:7b8dcc53aca7ee2ed6ec1c",
+        "android_client_info": {
+          "package_name": "com.example.sending_image"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864493599253-ruveopmob1ckvsjlafn5u7lfefn4kf4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0daRWXwkfwYqudQ0V7sHE3dv0R-HBkds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864493599253-ruveopmob1ckvsjlafn5u7lfefn4kf4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
